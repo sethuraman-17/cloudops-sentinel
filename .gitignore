@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+app.log
+app.log.backup
+sentinel_report.json
+final_report.json
+ai_analysis.json
+remediation_report.json
