@@ -63,3 +63,14 @@ Remediation is currently a proposal only. No automatic service restart or AWS re
 - Optional AI-powered root-cause analysis.
 - Enforced human approval before remediation.
 - Secure deployment and operational monitoring.
+
+## Project Screenshots
+
+### 1. AWS CloudWatch Monitoring
+![CloudWatch Monitoring](cloudwatch-monitoring.png)
+
+### 2. Application Health Check
+![Health Check](health-check.png)
+
+### 3. Incident Detection Tests
+![Incident Tests](incident-tests.png)
